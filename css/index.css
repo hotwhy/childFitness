@@ -1,3 +1,8 @@
+body {
+  width: 100%;
+  min-height: 100vh;
+  background: #ffdb34;
+}
 .wraper {
   position: absolute;
   width: 100%;
